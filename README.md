@@ -1,4 +1,4 @@
-# primerrepositorio
+# Introduccion al git
 Primer repositorio en git
 
 # prueba
