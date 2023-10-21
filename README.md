@@ -1,12 +1,16 @@
 # Introduccion al git
-Primer repositorio en git
 
-# prueba
+Este es mi primer repositorio en *GitHub* utilizando **git**. Un proyecto se puede clonar utilizando el comando `git clone`.
 
-##  seccion 1
+```r
+x = rnorm(10)
+hist(x)
+```
+
+##  Seccion 01
 
 Esto es un texto
 
-## seccion
+## Seccion 02
 
-El texto
+Texto de prueba
